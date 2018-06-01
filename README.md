@@ -19,6 +19,7 @@
 ![alt-текст](https://github.com/alexandradymova10/hw9/blob/master/4.jpg)
 
 ## БОНУС
-Я использовала регулярное выражение:([.,:;!?])(\w). После каждого знака препинания стоит пробел.
+Я использовала регулярное выражение ([.,:;!?]) 
+Заменила на: $1 
 
 ![alt-текст](https://github.com/alexandradymova10/hw9/blob/master/5.jpg)
